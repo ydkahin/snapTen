@@ -1,5 +1,5 @@
 # snapTen
-A Discord Bot built using discord.py
+A Discord Bot built using [discord.py](https://github.com/Rapptz/discord.py/tree/rewrite).
 
 SnapTen is a Discord Bot that sets the maximum number of messages in a channel to ten. The idea, which originated from a friend, was to make a _gimmick_ channel where users' messages won't linger on. Sort of like Snapchat, he wanted the conversations to disappear as they ended. 
 
