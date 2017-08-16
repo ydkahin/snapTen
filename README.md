@@ -7,5 +7,5 @@ I wrote the bot in python using the DiscordPy library. Additional features of th
 
 ---
 <p align="center">
-  <img src="https://thumbs.gfycat.com/RedCheeryAlligatorgar-size_restricted.gif"> 
+  <img src="https://fat.gfycat.com/RedCheeryAlligatorgar.gif"> 
 </p>
