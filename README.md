@@ -7,4 +7,5 @@ I wrote the bot in python using the DiscordPy library. Additional features of th
 
 ---
 
-https://media.giphy.com/media/26n6Vobt7ugKSGhPi/giphy.gif
+![Alt Text](https://media.giphy.com/media/26n6Vobt7ugKSGhPi/giphy.gif)
+
