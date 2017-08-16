@@ -6,6 +6,6 @@ SnapTen is a Discord Bot that sets the maximum number of messages in a channel t
 I wrote the bot in python using the DiscordPy library. Additional features of the bot include sending a message announcing that the channel has hit its 9th (effectively 10th) message and the adding of a reaction of a number denoting the order of each message as they are sent. 
 
 ---
-
-![Alt Text](https://media.giphy.com/media/26n6Vobt7ugKSGhPi/giphy.gif)
-
+<p align="center">
+  <img src="https://media.giphy.com/media/26n6Vobt7ugKSGhPi/giphy.gif"> 
+</p>
