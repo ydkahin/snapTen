@@ -7,4 +7,4 @@ I wrote the bot in python using the DiscordPy library. Additional features of th
 
 ---
 
-<div style="width:100%;height:0px;position:relative;padding-bottom:122.449%;"><iframe src="https://streamable.com/s/jxng2/hyisk?autoplay=1" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+<div style="width:100%;height:0;padding-bottom:122%;position:relative;"><iframe src="https://giphy.com/embed/26n6Vobt7ugKSGhPi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/26n6Vobt7ugKSGhPi">via GIPHY</a></p>
